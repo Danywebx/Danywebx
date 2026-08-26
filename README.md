@@ -28,10 +28,11 @@ Mi experiencia previa en desarrollo web me permite entender la arquitectura del 
 #### 🚀 [SenaWork — Plataforma Web LMS / Bolsa de Empleo](https://github.com/Danywebx/SenaWork)
 > Plataforma web desarrollada en **Laravel + MySQL** como bolsa de empleos para trabajos informales.
 
-<br>
-
 #### 📱 [Pro Routines — Aplicación Móvil de Ejercicios](https://github.com/Danywebx/ProRoutines)
 > Aplicación móvil desarrollada en **React Native (Expo) + SQLite** para la gestión de rutinas semanales.
+
+#### 🔌 [Restful Booker API Suite — Testing & Automation](https://github.com/Danywebx/RestfulBookerAPI)
+> Suite de automatización de pruebas de API REST con **Postman + JavaScript**, validando autenticación, flujos CRUD y manejo de errores.
 
 ---
 
