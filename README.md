@@ -50,10 +50,10 @@ Mi experiencia previa en desarrollo web me permite entender la arquitectura del 
 <p align="left">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="36" alt="Laravel" /> &nbsp;  
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="JavaScript" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="36" alt="TypeScript" /> &nbsp;
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="HTML5" /> &nbsp;
   <img src="https://cdn.simpleicons.org/css/1572B6" height="36" alt="CSS3" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="36" alt="Bootstrap" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="36" alt="PHP" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="36" alt="Bootstrap" />  
 </p>
 
 ---
