@@ -17,6 +17,7 @@ Mi experiencia previa en desarrollo web me permite entender la arquitectura del 
 - 📜 **Certificaciones:** 
   - **API Beginner Path** — Postman Academy
   - **Scrum Fundamentals Certified (SFC™)** — SCRUMstudy
+  - **Aprende SQL** — midudev
 <br>
 
 - 🎓 **Formación:** Tecnólogo en Análisis y Desarrollo de Software (ADSO).
