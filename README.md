@@ -14,10 +14,11 @@ Mi experiencia previa en desarrollo web me permite entender la arquitectura del 
 - 🎯 **Enfoque actual:** Pruebas funcionales (Manual QA), testing de APIs REST (Postman/Bruno) e integridad de datos con SQL.
 <br>
 
-- 📜 **Certificaciones:** 
-  - **API Beginner Path** — Postman Academy
-  - **Scrum Fundamentals Certified (SFC™)** — SCRUMstudy
+- 📜 **Certificaciones:**
   - **Aprende SQL** — midudev
+  - **SQL Advanced** — HackerRank
+  - **API Beginner Path** — Postman Academy
+  - **Scrum Fundamentals Certified (SFC™)** — SCRUMstudy  
 <br>
 
 - 🎓 **Formación:** Tecnólogo en Análisis y Desarrollo de Software (ADSO).
