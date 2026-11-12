@@ -1,11 +1,5 @@
-<h1 align="center">Hola, soy Daniel!</h1>
 <h3 align="center">QA Analyst | API Testing & Test Automation | SQL</h3>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Danywebx.Danywebx&left_color=darkorange&right_color=rebeccapurple&left_text=Visitas" alt="Visitas" />
-</p>
-
----
+<h1 align="center">Hola, soy Daniel!</h1>
 
 ### Sobre mí
 
@@ -20,7 +14,7 @@ Mi experiencia previa en desarrollo web me permite entender la arquitectura del 
   - **API Beginner Path** — Postman Academy (2026) 
   - **Scrum Fundamentals Certified (SFC™)** — SCRUMstudy (2023)
 
-- 🎓 **Formación:** Tecnólogo en Análisis y Desarrollo de Software (SENA, 2025).
+- 🎓 **Formación:** Tecnólogo en Análisis y Desarrollo de Software (SENA, 2025)
 
 ---
 
